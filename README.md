@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sowdhanya%20Laxna%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Passionate%20Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=62&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24&text=Sowdhanya%20Laxna%20V&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20UI/UX%20Designer%20•%20Tech%20Enthusiast&descAlignY=55&descSize=20"/>
 
 <h1 align="center">Hi 👋, I'm Sowdhanya Laxna V</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=M.Sc+Software+Systems+Student;Java+%7C+Python+Developer;Frontend+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi+There!+I'm+Sowdhanya+Laxna+V+👋;Full+Stack+Developer+💻;UI%2FUX+Designer+🎨;Java+%7C+Python+%7C+React+Developer+⚡;Building+Innovative+Software+Solutions+🚀"/>
 </p>
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```java
 class SowdhanyaLaxna {
@@ -16,11 +16,17 @@ class SowdhanyaLaxna {
     String name = "Sowdhanya Laxna V";
     String location = "Tamil Nadu, India";
     String degree = "M.Sc Software Systems (Integrated)";
-    
-    String[] stack = {
-        "Java", "Python", ".NET",
-        "HTML", "CSS", "JavaScript",
-        "React", "MySQL", "PostgreSQL"
+
+    String[] languages = {
+        "Java", "Python", ".NET"
+    };
+
+    String[] frontend = {
+        "HTML", "CSS", "JavaScript", "React"
+    };
+
+    String[] databases = {
+        "MySQL", "PostgreSQL"
     };
 
     String[] currentlyLearning = {
@@ -28,10 +34,17 @@ class SowdhanyaLaxna {
         "Splunk Engineering"
     };
 
-    String funFact = "I love building innovative software solutions.";
+    String[] interests = {
+        "Full Stack Development",
+        "UI/UX Design",
+        "Open Source",
+        "Software Engineering"
+    };
+
+    String funFact = "I love transforming ideas into real-world software.";
 
     String motto() {
-        return "Learn, Build, Innovate 🚀";
+        return "Learn • Build • Innovate 🚀";
     }
 }
 ```
@@ -39,7 +52,7 @@ class SowdhanyaLaxna {
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sowdhanya-laxna-vijayakumar/" target="blank">
+<a href="https://www.linkedin.com/in/sowdhanya-laxna-vijayakumar/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -58,19 +71,26 @@ class SowdhanyaLaxna {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
 
-### Frontend
+### Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 
+### UI/UX Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square\&logo=canva\&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF4088?style=flat-square\&logo=adobecreativecloud\&logoColor=white)
+![Wireframing](https://img.shields.io/badge/Wireframing-6C63FF?style=flat-square\&logo=figma\&logoColor=white)
+
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
 
-### Tools
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
@@ -82,11 +102,9 @@ class SowdhanyaLaxna {
 
 <div align="center">
 
-<a href="https://github.com/Sowdhanya-laxna">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sowdhanya-laxna&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowdhanya-laxna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
 
 </div>
 
@@ -102,14 +120,14 @@ class SowdhanyaLaxna {
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sowdhanya-laxna\&theme=tokyo-night\&bg_color=0d1117\&color=70a5fd\&line=bf91f3\&point=38bdae\&area=true\&hide_border=true)](https://github.com/Sowdhanya-laxna)
+[![Sowdhanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sowdhanya-laxna\&theme=tokyo-night\&bg_color=0d1117\&color=70a5fd\&line=bf91f3\&point=38bdae\&area=true\&hide_border=true)](https://github.com/Sowdhanya-laxna)
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sowdhanya-laxna&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sowdhanya-laxna&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 </p>
 
 ---
@@ -125,9 +143,25 @@ class SowdhanyaLaxna {
 ## 🌱 Currently Learning
 
 ```text
-🧱 Blockchain → Smart Contracts, Decentralized Applications
-⚙️ Splunk Engineering → Data Analysis, Monitoring, Security Analytics
+🧱 Blockchain
+   └── Smart Contracts
+   └── Decentralized Applications
+
+⚙️ Splunk Engineering
+   └── Data Analysis
+   └── Monitoring
+   └── Security Analytics
 ```
+
+---
+
+## 🚀 Interests
+
+* 💻 Full Stack Development
+* 🎨 UI/UX Design
+* ⛓️ Blockchain Technology
+* 📊 Splunk Engineering
+* 🌐 Open Source Contributions
 
 ---
 
@@ -138,7 +172,7 @@ class SowdhanyaLaxna {
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sowdhanya-laxna&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Sowdhanya-laxna&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling"/>
