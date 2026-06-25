@@ -167,7 +167,7 @@ class SowdhanyaLaxna {
 
 ## ✨ Quote
 
-> "Success is the sum of small efforts, repeated day in and day out."
+> "Consistency is the Key ."
 
 ---
 
